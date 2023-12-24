@@ -1,0 +1,6 @@
+aws:
+  accessKey: "YOUR-ACCESS-KEY"
+  secretKey: "YOUR-SECRET-KEY"
+  s3:
+    bucket: "YOUR-BUCKET-NAME"
+    endpoint: "YOUR-BUCKET-ENDPOINT"
